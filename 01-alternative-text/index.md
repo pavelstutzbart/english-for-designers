@@ -1,4 +1,4 @@
-# Alterative Text
+# Alternative Text
 
 ![This is where my alterative text description goes.](uppercase-stutzbart.png)
 

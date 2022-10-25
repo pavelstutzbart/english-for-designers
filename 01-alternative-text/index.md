@@ -6,4 +6,4 @@
 
 ---
 
-**Alt text** `Letter B, full of golden beer with foam and bubbles inside, stylized like a glass with holder.`
+**Alt text** `Vector letter B, full of golden beer with foam and bubbles inside, stylized like a glass with holder.`

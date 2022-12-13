@@ -1,3 +1,3 @@
 # English for Designers
 
-In loading
+Work in progres [classwork](https://pavelstutzbart.github.io/english-for-designers/)

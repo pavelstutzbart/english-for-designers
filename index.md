@@ -5,7 +5,7 @@ This is what I do, what I love to do, what I can do for you, and something perso
 ## About me
 
 - My story
-- Résume/CV
+- [Resumé](04-experience)
 - Contact: stutzbart.pavel@seznam.cz
 - Voice&Tone
 

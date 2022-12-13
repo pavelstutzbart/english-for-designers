@@ -15,6 +15,6 @@ This is what I do, what I love to do, what I can do for you, and something perso
 
 ## Classwork
 
-- [Alternative text](/01-alternative-text/)
+- [Alternative text](01-alternative-text/)
 - first impresion
 - 

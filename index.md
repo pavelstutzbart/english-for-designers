@@ -21,3 +21,7 @@ This is what I do, what I love to do, what I can do for you, and something perso
 
 ## Extra
 - [Takeaways](takeaways)
+
+---
+
+[View Source](https://pavelstutzbart.github.io/english-for-designers/)

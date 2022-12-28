@@ -4,7 +4,7 @@ This is what I do, what I love to do, what I can do for you, and something perso
 
 ## About me
 
-- My story
+- [My story](02-first-impression)
 - [Resumé](04-experience)
 - My portfolio: https://stutzbartpavel.myportfolio.com/
 - Contact: stutzbart.pavel@seznam.cz

@@ -12,7 +12,7 @@ This is what I do, what I love to do, what I can do for you, and something perso
 
 ## Case study
 
-- Projekt Name
+- [Theatre Viola](03-content-first)
 
 ## Classwork
 

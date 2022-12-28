@@ -8,7 +8,7 @@ This is what I do, what I love to do, what I can do for you, and something perso
 - [Resumé](04-experience)
 - My portfolio: https://stutzbartpavel.myportfolio.com/
 - Contact: stutzbart.pavel@seznam.cz
-- Voice&Tone
+- [Voice&Tone] (05-voice-&-tone)
 
 ## Case study
 

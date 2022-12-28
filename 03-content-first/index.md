@@ -13,4 +13,4 @@ Thinking about how to move the brand in the market, how to target a wider target
 It took 2 months from assignment to competition presentation.
 The implementation itself took 4 months.
 
-[More about this project](https://stutzbartpavel.myportfolio.com/viola)
+# [More about this project](https://stutzbartpavel.myportfolio.com/viola)

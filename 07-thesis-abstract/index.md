@@ -1,0 +1,10 @@
+# Visual and marketing communication of the entity in the gastro segment
+by Pavel Štutzbart
+
+## Abstract
+
+Tato bakalářská práce se zabívá vytvořením nové vizuální a marketingové komunikace již existující firmy, která vyrábí pivo a provozuje hotel s restaurací. Cílem práce je vytvořit ucelený vizuální styl a marketingovou komunikaci, která pomůže firmě v lepší konkurenceschopnosti. Proces tvorby nové vizuální a marketingové komunikace cílí na vytvoření vizuálního stylu, jenž posílí značku na trhu a který se propíše do obalového designu a marketingových materiálů. Nová vizuální a marketingová komunikace má prokázat, že dobrý design a komunikace vede k lepší konkurenceschopnosti a lepšímu povědomí o značce. Teoretická část je věnována rešerši v oblasti vytváření vizuální identity, obalového designu a marketingové komunikace. Praktická část se zabývá vytvořením jednotného vizuálního stylu a komunikace, a aplikování tohoto stylu a komunikace na obalový design, merkantil a on-line prostředí. Výsldekem této práce by měla být snadno rozeznatelná vizuální a marketingová komunikace, která se projeví v nové firemní identitě, obalovém designu, propagačních materiálech a v on-line prostředí.
+
+# Oprava
+
+This thesis aims to create a visual and marketing strategy for an existing beer and hospitality company. The objective is to enhance the company's competitiveness with a clear and impactful visual style. This involves designing a visual identity that strengthens the brand's position in the market and integrating it into packaging and marketing materials. The strategy aims to demonstrate that effective design and communication leads to better competitiveness and brand recognition. The theoretical research focuses on visual identity, packaging design, and marketing communication. The practical aspect involves creating a unified visual and communication strategy and applying it to packaging, merchandise, and online platforms. The anticipated outcome is a distinct and recognizable visual and marketing communication strategy reflected in the new corporate identity, packaging, promotions, and online presence.

@@ -14,9 +14,9 @@ Moreover, I believe that my personal traits and interests contribute to a positi
 - [Theatre Viola](03-content-first)
 
 ## Classwork
-- [Voice&Tone](05-voice-&-tone)
+- [Voice & Tone](05-voice-&-tone)
 - [Alternative text](01-alternative-text/)
-- [First impresion](02-first-impression)
+- [First impression](02-first-impression)
 - [Storytelling](06-Storytelling) 
 - [Thesis Abstract](07-thesis-abstract)
 - [Theses Presentation](08-Thesis-Presentation)
@@ -27,4 +27,4 @@ Moreover, I believe that my personal traits and interests contribute to a positi
 
 ---
 
-[View Source](https://pavelstutzbart.github.io/english-for-designers/)
+[View Source](https://github.com/pavelstutzbart/english-for-designers)

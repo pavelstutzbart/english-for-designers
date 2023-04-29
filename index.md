@@ -22,6 +22,7 @@ This is what I do, what I love to do, what I can do for you, and something perso
 
 ## Extra
 - [Takeaways](takeaways)
+- [Year end review](year-end-review)
 
 ---
 

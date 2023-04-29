@@ -9,7 +9,7 @@ When I was looking for an entity to do my bachelor's thesis on, I was recommende
 There is more examples of current form and like you can see its nothing beautiful. 
 
 
-![This is where my alterative text description goes.](08-Thesis-Presentation/images/Slide 16_9 - 4.png)
+![This is where my alterative text description goes.](images/Slide16_9-4.png)
 
 ![image](images/Slide 16_9 - 5.png)
 

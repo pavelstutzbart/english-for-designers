@@ -8,7 +8,7 @@ I would start from the very beginning, when it came time to choose the topic of 
 When I was looking for an entity to do my bachelor's thesis on, I was recommended the brewery MMX which has a restaurant and a hotel and as you can see I couldn't find a better brewery that deserved a makeover. 
 There is more examples of current form and like you can see its nothing beautiful. 
 
-[!image](images/Slide 16_9 - 4.png)
+[image](images/Slide 16_9 - 4.png)
 [!image](images/Slide 16_9 - 5.png)
 [!image](images/Slide 16_9 - 6.png)
 

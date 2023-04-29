@@ -10,6 +10,7 @@ There is more examples of current form and like you can see its nothing beautifu
 
 
 ![This is where my alterative text description goes.](images/Slide 16_9 - 4.png)
+
 ![image](images/Slide 16_9 - 5.png)
 
 ![image](images/Slide 16_9 - 6.png)

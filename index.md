@@ -17,6 +17,7 @@ This is what I do, what I love to do, what I can do for you, and something perso
 - [Alternative text](01-alternative-text/)
 - [First impresion](02-first-impression)
 - [Storytelling](06-Storytelling) 
+- [Thesis Abstract](07-thesis-abstract)
 
 ## Extra
 - [Takeaways](takeaways)

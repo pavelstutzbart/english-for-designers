@@ -1,3 +1,5 @@
+# My journey from a big agency to a small one
+---
 Hello, this is my storytelling about my journey from a big agency to a small one. I want to point out that this is my subjective view and may not be representative of everyone's experiences, as everyone has different preferences and circumstances.
 
 It all started in June, when I was hired as an intern at a big agency for my first experience as a graphic designer at an agency. I was excited to go to work, like how I used to be excited to go to a water park as a child.

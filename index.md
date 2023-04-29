@@ -16,6 +16,7 @@ This is what I do, what I love to do, what I can do for you, and something perso
 - [Voice&Tone](05-voice-&-tone)
 - [Alternative text](01-alternative-text/)
 - [First impresion](02-first-impression)
+- [Storytelling] (06-Storytelling) 
 
 ## Extra
 - [Takeaways](takeaways)

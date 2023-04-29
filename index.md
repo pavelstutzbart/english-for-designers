@@ -6,7 +6,7 @@ Moreover, I believe that my personal traits and interests contribute to a positi
 ## About me
 
 - [Resumé](04-experience)
-- My portfolio: https://stutzbartpavel.myportfolio.com/
+- [My portfolio](https://stutzbartpavel.myportfolio.com/)
 - Contact: stutzbart.pavel@seznam.cz
 
 ## Case study

@@ -85,10 +85,10 @@ I won the best photos in this competition, which was focused on graphic designs 
 - Precision
 
 # Graphic skills
-- Logo
 - Branding
-- Typhography
+- Logo design
+- Typography
+- Icons/pictograms
+- Motion design
 - Web design
-- Motion Design
-- Social Media
-- Piktograms/Icons
+- Social media

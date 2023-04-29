@@ -39,16 +39,19 @@ And what would a brewery be without a packaging design. I've divided the individ
 ![image](images/Slide16_9-13.png)
 
 Outdoor advertising.
+
 The brand communication is consistent based on the fact that the company's name is the year it was founded and the company has been in business for some time.
 
 ![image](images/Slide16_9-14.png)
 
-Branding of the space
+Branding of the space.
+
 I have also looked at branding in the actual space of the company, here I have designed the under tray, menu, wayfinding signs, signage taps and room signage in the hotel.
 
 ![image](images/Slide16_9-15.png)
 
 Online
+
 For online, I designed the social media communication for Instagram, here it would be more like mood content, Facebook would be used mainly for events and LinkedIn would target businesses and team building. I also designed a website that is divided into the different segments of the company. 
 
 ![image](images/Slide16_9-16.png)
@@ -56,17 +59,20 @@ For online, I designed the social media communication for Instagram, here it wou
 ![image](images/Slide16_9-18.png)
 ![image](images/Slide16_9-23.png)
 
-Business materials
+Business materials.
+
 What would a company be without business cards, I also designed a mobile ad, aka a car that the brewery uses to tie up businesses. And last but not least, a tax document where more logo work can be seen. 
 
 ![image](images/Slide16_9-19.png)
 
-The elements that make it all up 
+The elements that make it all up
+
 Font azo sans 
 
 ![image](images/Slide16_9-20.png)
 
 Colouring
+
 When choosing the color scheme, I based it on the psychology of colors to correspond as much as possible with the company, which operates in three segments 
 
 ![image](images/Slide16_9-21.png)

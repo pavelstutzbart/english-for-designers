@@ -9,7 +9,9 @@ When I was looking for an entity to do my bachelor's thesis on, I was recommende
 There is more examples of current form and like you can see its nothing beautiful. 
 
 ![image](images/Slide 16_9 - 4.png)
+
 ![image](images/Slide 16_9 - 5.png)
+
 ![image](images/Slide 16_9 - 6.png)
 
 The name is based on the year the brewery was founded and in which the visual was also done. 

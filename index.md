@@ -1,6 +1,7 @@
 # Hi, I'm Paul
 
-This is what I do, what I love to do, what I can do for you, and something personal about me that helps to define the culture fit.
+Allow me to introduce myself and what I have to offer. I have a passion for the work I do, which is graphic design. I am skilled in this field and have valuable experience that I can bring to the table to help you achieve your goals.
+Moreover, I believe that my personal traits and interests contribute to a positive culture fit within the workplace. By getting to know me on a personal level, you will see that I am a dedicated and hardworking individual who is always eager to learn and grow.
 
 ## About me
 

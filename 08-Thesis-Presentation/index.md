@@ -9,64 +9,64 @@ When I was looking for an entity to do my bachelor's thesis on, I was recommende
 There is more examples of current form and like you can see its nothing beautiful. 
 
 
-![This is where my alterative text description goes.](images/Slide16_9-4.png)
+![image](images/Slide16_9-4.png)
 
-![image](images/Slide 16_9 - 5.png)
+![image](images/Slide16_9-5.png)
 
-![image](images/Slide 16_9 - 6.png)
+![image](images/Slide16_9-6.png)
 
 The name is based on the year the brewery was founded and in which the visual was also done. 
 
 Before I started creating I was looking for inspiration, and since the company has a building in which it operates, I decided to take inspiration from its architecture, which is modern and clean. 
 
-[!image](images/Slide 16_9 - 7.png)
+![image](images/Slide16_9-7.png)
 
 When designing the logo, I kept the square shape that corresponds with the architecture. I drew the logo to be square and the diagonal strokes sit on the diagonals of the imaginary square.
 
-[!image](images/Slide 16_9 - 8.png)
+![image](images/Slide16_9-8.png)
 
 I then added other variations of the logo, to the different segments in which the company operates. 
 
-[!image](images/Slide 16_9 - 9.png)
+![image](images/Slide16_9-9.png)
 
 For better visual communication, I created a symbol based on the logo. It is the letter x, whose lower left end always comes out of the format. It is applied behind the objects thanks to which the graphic element or object in the photo is highlighted. 
 
-[!image](images/Slide 16_9 - 11.png)
+![image](images/Slide16_9-11.png)
 
 And what would a brewery be without a packaging design. I've divided the individual packaging into three colours depending on whether the beer is light, semi-dark or dark. The main element here is the logo with the name. In this case, the same principle as the brand symbol is used here. Since the brewery uses a large number of containers, I decided to create the label so that it would be compatible with all these containers and would vary in size at most. 
 
-[!image](images/Slide 16_9 - 12.png)
-[!image](images/Slide 16_9 - 13.png)
+![image](images/Slide16_9-12.png)
+![image](images/Slide16_9-13.png)
 
 Outdoor advertising.
 The brand communication is consistent based on the fact that the company's name is the year it was founded and the company has been in business for some time.
 
-[!image](images/Slide 16_9 - 14.png)
+![image](images/Slide16_9-14.png)
 
 Branding of the space
 I have also looked at branding in the actual space of the company, here I have designed the under tray, menu, wayfinding signs, signage taps and room signage in the hotel.
 
-[!image](images/Slide 16_9 - 15.png)
+![image](images/Slide16_9-15.png)
 
 Online
 For online, I designed the social media communication for Instagram, here it would be more like mood content, Facebook would be used mainly for events and LinkedIn would target businesses and team building. I also designed a website that is divided into the different segments of the company. 
 
-[!image](images/Slide 16_9 - 16.png)
-[!image](images/Slide 16_9 - 17.png)
-[!image](images/Slide 16_9 - 18.png)
-[!image](images/Slide 16_9 - 23.png)
+![image](images/Slide16_9-16.png)
+![image](images/Slide16_9-17.png)
+![image](images/Slide16_9-18.png)
+![image](images/Slide16_9-23.png)
 
 Business materials
 What would a company be without business cards, I also designed a mobile ad, aka a car that the brewery uses to tie up businesses. And last but not least, a tax document where more logo work can be seen. 
 
-[!image](images/Slide 16_9 - 19.png)
+![image](images/Slide16_9-19.png)
 
 The elements that make it all up 
 Font azo sans 
 
-[!image](images/Slide 16_9 - 20.png)
+![image](images/Slide16_9-20.png)
 
 Colouring
 When choosing the color scheme, I based it on the psychology of colors to correspond as much as possible with the company, which operates in three segments 
 
-[!image](images/Slide 16_9 - 21.png)
+![image](images/Slide16_9-21.png)
